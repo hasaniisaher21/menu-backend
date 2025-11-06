@@ -45,7 +45,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
     ```sh
     git clone [https://github.com/hasaniisaher21/menu-backend.git](https://github.com/hasaniisaher21/menu-backend.git)
-    cd menu-backend
     ```
 
 2.  **Install dependencies:**
