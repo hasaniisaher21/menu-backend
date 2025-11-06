@@ -44,8 +44,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/hasaniisaher21/menu-backend.git](https://github.com/hasaniisaher21/menu-backend.git)
+    cd menu-backend
     ```
 
 2.  **Install dependencies:**
@@ -61,7 +61,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     PORT=5000
 
     # Your MongoDB connection string
-    MONGO_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/menu-db?retryWrites=true&w=majority
+    MONGO_URI=mongodb+srv://sssiddiqui2102_db_user:FjGf4XKip7BA4owe@cluster0.wbi5ouz.mongodb.net/?appName=Cluster0
     ```
 
 4.  **Run the server (for development):**
