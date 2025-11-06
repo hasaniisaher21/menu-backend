@@ -6,12 +6,6 @@ This project was completed as part of an internship assignment.
 
 ---
 
-# Menu Management Backend API
-
-This is the backend server for the menu management internship assignment, built with Node.js, Express, and MongoDB.
-
----
-
 ## 🚀 Live API
 
 The API is hosted on Render and is available at the following base URL:
